@@ -1,24 +1,11 @@
 # Hi, I'm Shahd 👋
-<img width="200" height="200" alt="yvKlzf67SM" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
-
+<img align="right" width="120" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
 
 👩‍💻 About Me:
-- Computer Science student
-- Passionate about web development and UI/UX design
-- I enjoy building real-world applications
+Computer Science student focused on building complete digital experiences — from designing intuitive interfaces in Figma to developing full-stack web applications.
 
-💻 Skills:
-- HTML, CSS, JavaScript
-- PHP & MySQL
+I specialize in creating user-centered solutions with strong attention to usability, structure, and real-world functionality, and I enjoy bringing ideas to life through clean design and efficient code.
 
-🚀 Interests:
-- Web Development
-- UI/UX Design
-- Learning new technologies
-
-📂 Projects:
-- 🍽️ Cook With Us – Recipe sharing website using PHP & MySQL
-- 🛋️ Tafseel – Graduation project for furniture customization
 
 📫 Contact:
 - LinkedIn: (https://www.linkedin.com/in/shahd-frez)
