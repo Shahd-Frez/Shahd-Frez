@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shahd 👋
+<img width="880" height="440" alt="image" src="https://github.com/user-attachments/assets/ba3efbed-e0c3-494e-af00-622456b16721" />
 
-<!--
-**Shahd-Frez/Shahd-Frez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me:
+- Computer Science student
+- Passionate about web development and UI/UX design
+- I enjoy building real-world applications
 
-Here are some ideas to get you started:
+💻 Skills:
+- HTML, CSS, JavaScript
+- PHP & MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interests:
+- Web Development
+- UI/UX Design
+- Learning new technologies
+
+📂 Projects:
+- 🍽️ Cook With Us – Recipe sharing website using PHP & MySQL
+- 🛋️ Tafseel – Graduation project for furniture customization
+
+📫 Contact:
+- LinkedIn: (https://www.linkedin.com/in/shahd-frez)
