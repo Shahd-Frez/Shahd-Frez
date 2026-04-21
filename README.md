@@ -1,6 +1,6 @@
 # Hi, I'm Shahd 👋
 
-<img align="right" width="120" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
 
 👩‍💻 About Me:
 
