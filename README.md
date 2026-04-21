@@ -1,5 +1,5 @@
 # Hi, I'm Shahd 👋
-<img width="640" height="640" alt="yvKlzf67SM" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
+<img width="200" height="200" alt="yvKlzf67SM" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
 
 
 👩‍💻 About Me:
