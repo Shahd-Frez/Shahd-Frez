@@ -1,5 +1,6 @@
 # Hi, I'm Shahd 👋
-<img width="880" height="440" alt="image" src="https://github.com/user-attachments/assets/ba3efbed-e0c3-494e-af00-622456b16721" />
+<img width="640" height="640" alt="yvKlzf67SM" src="https://github.com/user-attachments/assets/c9de7533-80bf-4feb-aa97-7861932dd5c7" />
+
 
 👩‍💻 About Me:
 - Computer Science student
