@@ -9,4 +9,4 @@ Computer Science student focused on building complete digital experiences, from 
 I specialize in creating user-centered solutions with strong attention to usability, structure, and real-world functionality, and I enjoy bringing ideas to life through clean design and efficient code.
 
 📫 Contact:
-- LinkedIn: (https://www.linkedin.com/in/shahd-frez)
+
